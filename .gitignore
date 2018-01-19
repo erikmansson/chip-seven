@@ -1,0 +1,5 @@
+*.o
+chip-seven
+obj/
+lib/
+roms/
