@@ -7,7 +7,7 @@ A simple CHIP-8 interpreter for Linux written in C. Uses OpenGL ([GLFW](https://
 #### GLFW
 Follow [this](http://www.glfw.org/docs/latest/compile_guide.html) guide, or my tl;dr version:
 
-Make sure `xorg-dev` is installed, then:
+Make sure `libglfw3`, `xorg-dev` and `cmake` is installed, then:
 ```
 git clone git@github.com:glfw/glfw.git
 cd glfw
